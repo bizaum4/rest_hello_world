@@ -1,0 +1,13 @@
+%% coding: utf-8
+[{release,"rest_hello_world_example","1","11.0.2",
+          [{kernel,"7.0","./lib/kernel-7.0"},
+           {stdlib,"3.13","./lib/stdlib-3.13"},
+           {crypto,"4.7","./lib/crypto-4.7"},
+           {cowlib,"2.10.1","./lib/cowlib-2.10.1"},
+           {asn1,"5.0.13","./lib/asn1-5.0.13"},
+           {public_key,"1.8","./lib/public_key-1.8"},
+           {ssl,"10.0","./lib/ssl-10.0"},
+           {ranch,"1.7.1","./lib/ranch-1.7.1"},
+           {cowboy,"2.8.0","./lib/cowboy-2.8.0"},
+           {rest_hello_world,"1","./lib/rest_hello_world-1"}],
+          permanent}].

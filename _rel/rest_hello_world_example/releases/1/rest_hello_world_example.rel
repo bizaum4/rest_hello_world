@@ -1,0 +1,12 @@
+{release,{"rest_hello_world_example","1"},
+         {erts,"11.0.2"},
+         [{kernel,"7.0"},
+          {stdlib,"3.13"},
+          {crypto,"4.7"},
+          {cowlib,"2.10.1"},
+          {asn1,"5.0.13"},
+          {public_key,"1.8"},
+          {ssl,"10.0"},
+          {ranch,"1.7.1"},
+          {cowboy,"2.8.0"},
+          {rest_hello_world,"1"}]}. 
